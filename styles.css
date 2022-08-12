@@ -1,0 +1,80 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    background-color: #004d9d;
+    color: #ffffff;
+    margin: 0;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+div {
+    height: 100vh;
+    background-image: url(assets/john_1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+header {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+}
+
+footer {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+}
+
+h1 {
+    font-size: 40px;
+    margin-bottom: 5px;
+}
+
+.camera_emoji {
+    font-size: 50px;
+}
+
+p {
+    font-size: 18px;
+}
+
+footer a {
+    margin-right: 5px;
+}
+
+a:hover {
+    color: #dddddd;
+}
+
+.image_2 {
+    background-image: url(assets/john_2.jpg)
+}
+
+.image_3 {
+    background-image: url(assets/john_3.jpg)
+}
+
+.image_4 {
+    background-image: url(assets/john_4.jpg)
+}
+
+.image_5 {
+    background-image: url(assets/john_5.jpg)
+}
+
+.image_6 {
+    background-image: url(assets/john_6.jpg)
+}
+
+.image_7 {
+    background-image: url(assets/john_7.jpg)
+}
+
+.image_8 {
+    background-image: url(assets/john_8.jpg)
+}
